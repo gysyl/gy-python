@@ -73,3 +73,13 @@ print(len(list01))
 # 数组的排序
 # sort 升序排序
 list01.sort()
+print(list01)
+# reverse 降序排序
+list01.reverse()
+print(list01)
+# 数组的复制
+# copy 复制数组
+list02 = list01.copy()
+print(list02)
+# 数组的遍历
+# for 循环遍历数组
